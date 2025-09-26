@@ -1,0 +1,22 @@
+[
+  {"id":1,"title":"Web Development Internship","company":"Tech Solutions","location":"Bangalore","skills":["HTML","CSS","JavaScript","React","Bootstrap"],"link":"https://internshala.com/web-dev"},
+  {"id":2,"title":"Data Science Internship","company":"AI Labs India","location":"Hyderabad","skills":["Python","Machine Learning","Pandas","Numpy","Data Visualization"],"link":"https://internshala.com/data-science"},
+  {"id":3,"title":"Mobile App Development Internship","company":"Appify","location":"Delhi","skills":["Java","Kotlin","Flutter","React Native","Android Studio"],"link":"https://internshala.com/mobile-dev"},
+  {"id":4,"title":"Cybersecurity Internship","company":"SecureTech","location":"Mumbai","skills":["Networking","Linux","Ethical Hacking","Penetration Testing","Cryptography"],"link":"https://internshala.com/cybersecurity"},
+  {"id":5,"title":"UI/UX Design Internship","company":"DesignHub","location":"Chennai","skills":["Figma","Adobe XD","Photoshop","Wireframing","Prototyping"],"link":"https://internshala.com/uiux"},
+  {"id":6,"title":"Cloud Computing Internship","company":"CloudOps","location":"Pune","skills":["AWS","Azure","Google Cloud","Docker","Kubernetes"],"link":"https://internshala.com/cloud"},
+  {"id":7,"title":"Blockchain Internship","company":"CryptoTech","location":"Bangalore","skills":["Solidity","Ethereum","Smart Contracts","Web3.js","DeFi"],"link":"https://internshala.com/blockchain"},
+  {"id":8,"title":"AI Internship","company":"NeuroAI","location":"Hyderabad","skills":["Deep Learning","TensorFlow","Keras","NLP","OpenCV"],"link":"https://internshala.com/ai"},
+  {"id":9,"title":"Game Development Internship","company":"GameForge","location":"Delhi","skills":["Unity","C#","3D Modeling","Blender","Unreal Engine"],"link":"https://internshala.com/game-dev"},
+  {"id":10,"title":"Finance & Business Analysis Internship","company":"FinServe","location":"Mumbai","skills":["Excel","Power BI","SQL","Financial Modeling","Business Analysis"],"link":"https://internshala.com/finance"},
+  {"id":11,"title":"Digital Marketing Internship","company":"MarketPro","location":"Bangalore","skills":["SEO","Google Analytics","Content Writing","Social Media Marketing","Email Marketing"],"link":"https://internshala.com/digital-marketing"},
+  {"id":12,"title":"Content Writing Internship","company":"WriteHub","location":"Chennai","skills":["Copywriting","Blogging","Proofreading","Editing","Creative Writing"],"link":"https://internshala.com/content-writing"},
+  {"id":13,"title":"Mechanical Engineering Internship","company":"MechWorks","location":"Pune","skills":["CAD","SolidWorks","AutoCAD","MATLAB","ANSYS"],"link":"https://internshala.com/mechanical"},
+  {"id":14,"title":"Electrical Engineering Internship","company":"ElectroTech","location":"Mumbai","skills":["Circuit Design","MATLAB","Proteus","PCB Design","Power Systems"],"link":"https://internshala.com/electrical"},
+  {"id":15,"title":"Data Analytics Internship","company":"InsightLabs","location":"Bangalore","skills":["Excel","SQL","Python","Tableau","Power BI"],"link":"https://internshala.com/data-analytics"},
+  {"id":16,"title":"Robotics Internship","company":"RoboTech","location":"Delhi","skills":["Arduino","Raspberry Pi","C++","Python","Sensors"],"link":"https://internshala.com/robotics"},
+  {"id":17,"title":"Photography Internship","company":"ClickPro","location":"Chennai","skills":["Photography","Photoshop","Lightroom","Editing","Videography"],"link":"https://internshala.com/photography"},
+  {"id":18,"title":"Video Editing Internship","company":"EditHub","location":"Hyderabad","skills":["Premiere Pro","After Effects","Final Cut Pro","Editing","Motion Graphics"],"link":"https://internshala.com/video-editing"},
+  {"id":19,"title":"AI Chatbot Development Internship","company":"BotLabs","location":"Bangalore","skills":["Python","NLP","Dialogflow","Rasa","Machine Learning"],"link":"https://internshala.com/chatbot"},
+  {"id":20,"title":"Graphic Design Internship","company":"DesignPro","location":"Mumbai","skills":["Photoshop","Illustrator","CorelDraw","Figma","Branding"],"link":"https://internshala.com/graphic-design"}
+]

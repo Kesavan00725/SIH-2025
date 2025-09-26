@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Kesavan",
+        "phone": "6374270273",
+        "skills": [
+            "Python"
+        ],
+        "location": "Chennai"
+    },
+    {
+        "name": "Sam",
+        "phone": "9600095027",
+        "skills": [
+            "Python"
+        ],
+        "location": "Chennai"
+    },
+    {
+        "name": "Willsmith",
+        "phone": "6383260342",
+        "skills": [
+            "Python"
+        ],
+        "location": "Chennai"
+    },
+    {
+        "name": "Wilson",
+        "phone": "6386574152",
+        "skills": [
+            "Python"
+        ],
+        "location": "Chennai"
+    }
+]
